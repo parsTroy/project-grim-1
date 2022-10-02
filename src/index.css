@@ -17,3 +17,12 @@ body {
   background-color: var(--bg-color);
   color: var(--txt-color);
 }
+
+input, 
+textarea {
+  background-color: var(--bg-color);
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  margin-left: 0.5rem;
+}
