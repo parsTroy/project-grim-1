@@ -3,8 +3,8 @@ import { TiSocialFacebook, TiSocialTwitter, TiSocialYoutube } from 'react-icons/
 
 const Header = () => {
   return (
-      <div className='bg-[#30475e] w-[100%] h-24 flex justify-around items-center sticky z-999'>
-          <div className='w-44 h-14 border flex justify-center items-center p-2.5 font-mono font-extrabold'>
+      <div className='bg-[#30475e] w-[100vw] h-24 flex justify-around items-center fixed top-0 z-50 drop-shadow-md'>
+          <div className='w-44 h-14 border border-[#f05454]	flex justify-center items-center p-2.5 font-mono font-extrabold'>
             <h4>Grim Studios</h4>
           </div>
           <div className='flex'>

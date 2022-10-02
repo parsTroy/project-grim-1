@@ -15,7 +15,7 @@ import {
 export const Footer = () => {
   return (
     <div className='bg-[#30475e] w-[100%] h-58 flex justify-around items-center p-8'>
-      <div className='ml-60 w-44 h-14 border flex justify-center items-center p-2.5 font-mono font-extrabold'>
+      <div className='ml-60 w-44 h-14 border border-[#f05454] flex justify-center items-center p-2.5 font-mono font-extrabold'>
         <h4>Grim Studios</h4>
       </div>
       <div className='w-[800px] flex justify-around items-center mr-44'>
