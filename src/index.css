@@ -9,6 +9,10 @@
   --accent-2: #f05454;
 }
 
+h4 {
+  font-weight: bold;
+  text-transform: uppercase;
+}
 h4:hover {
   color: #f05454;
 }
